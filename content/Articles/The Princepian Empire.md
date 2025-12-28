@@ -1,5 +1,5 @@
 ---
-title: "[[The Princepian Empire]]"
+title: The Princepian Empire
 draft: false
 tags:
   -

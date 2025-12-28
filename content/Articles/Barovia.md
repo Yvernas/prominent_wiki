@@ -1,5 +1,5 @@
 ---
-title: "[[Barovia]]"
+title: Barovia
 draft: false
 tags:
   -

@@ -1,7 +1,7 @@
 ---
-title: "[[Characters]]"
+title: Characters
 draft: false
 tags:
-  - 
+  -
 ---
  
