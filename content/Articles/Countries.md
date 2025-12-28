@@ -1,5 +1,5 @@
 ---
-title: Countries
+title: "[[Countries]]"
 draft: false
 tags:
   -

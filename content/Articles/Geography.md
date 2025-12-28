@@ -1,5 +1,5 @@
 ---
-title: Geography
+title: "[[Geography]]"
 draft: false
 tags:
   -

@@ -9,7 +9,7 @@ Welcome to the wiki for the Prominence campaign, here you can find all the publi
 
 [[Geography]]
 
-Characters
+[[Characters]]
 
 Objects
 

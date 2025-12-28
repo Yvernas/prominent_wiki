@@ -1,7 +1,7 @@
 ---
-title: "[[Barovia]]"
+title: "[[Characters]]"
 draft: false
 tags:
-  -
+  - 
 ---
  

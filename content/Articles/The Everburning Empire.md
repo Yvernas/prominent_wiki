@@ -1,5 +1,5 @@
 ---
-title: The Everburning Empire
+title: "[[The Everburning Empire]]"
 draft: false
 tags:
   -
