@@ -1,7 +1,7 @@
 ---
-title: "[[Emily Thorne]]"
+title: Emily Thorne
 draft: false
 tags:
-  - 
+  -
 ---
  

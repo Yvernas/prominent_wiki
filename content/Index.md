@@ -1,5 +1,5 @@
 ---
-title: index
+title: Index
 draft: false
 tags:
   -
