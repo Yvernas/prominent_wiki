@@ -20,6 +20,8 @@ Here is a list of all the characters the party has met so far:
 
 [[The high and honourable Lord Peckins]]
 
+[[Yan-C-Bin]]
+
 [[Lady Sorresten]]
 
 [[Lady Addax]]

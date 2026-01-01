@@ -11,8 +11,14 @@ Welcome to the wiki for the Prominence campaign, here you can find all the publi
 
 [[Characters]]
 
-Objects
+[[Objects]]
 
-Events
+[[Events]]
 
-Session Reports
+[[Mythology]]
+
+[[Cultures]]
+
+[[The Party]]
+
+[[Session Reports]]
