@@ -1,0 +1,8 @@
+---
+title: Untitled
+draft: false
+tags:
+  - 
+---
+[[The party]] left the church after the battle and some unrequitted prayers, using a severely out of date map to find a nearby settlement to spend the night. They eventually found a good vantage point of the long sprawling fields and saw the settlement, but would later find it to be under attack. They attempted to avoid the fight but failed and found that they were very useful, for the explosive barrel could not be lit by a fire arrow in the rain, but [[Akshay]]'s magic did ignite it, blowing away almost the entire attacking undead force, with the stranglers quickly taken care off.
+The party then had a small talk with [[Gladius]], the person who threw the barrel and owner of the nearby bar and tavern. Here they figured out that [[Emily Thorne]] is a common enemy of them and the people of this town. The party was offered a free night stay as a thank you for their assistance and the party attempted to get Ace to like Gladius who they presumed liked [[Ace Goldwyn]], and the party figured out that Nox had arrived to this very tavern a little bit earlier. The next morning the party joined the resistance meeting, learning of the current standings of [[Barovia]] and off the three generals of the Thorne armies; [[Fenrir]], [[Jormungand]] and [[Hel]]. Here they decided to assassinate these generals in hopes of getting into [[the Thorne mansion]] and slaying Emily. They planned to start with Jormungand who was presumed to be nearby and the party went to a wizard who might have intel, however they would quickly find themselves lost in the [[Thistlewood]]. Here they found a few trees with leaves which turned out to be made of acid which quickly dropped on them, after which they heard an unnerving chuckle.
